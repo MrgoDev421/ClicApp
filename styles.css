@@ -1,3 +1,5 @@
+
+
 body {
 
     background-image: url(/images/Default_Classic_centered_background_image_with_a_soft_leatherl_3.jpg);
@@ -8,7 +10,7 @@ body {
 
 /* ---------------- Página login.html ---------------- */
 .login-container {
-    max-width: 400px;
+    max-width: 325px;
     margin: 100px auto;
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.8);
@@ -31,7 +33,7 @@ body {
 /* ---------------- Página 2 initOne.html ---------------- */ 
 
 .headTitle {
-    color: goldenrod;
+    color: white;
     font-style: italic;
     opacity: 0.7;
 }
@@ -71,7 +73,7 @@ height: 12px;
 padding: 0;
 
 padding-bottom: 80px;
-color: goldenrod;
+color: white;
 
 opacity: 0.7;
 
@@ -82,7 +84,7 @@ bottom: 0;
 padding: 10px;
 width: 100%;
 
-    color: rgb(218, 165, 32);
+    color: white;
     font-style: italic;
     opacity: 0.7;
 }
